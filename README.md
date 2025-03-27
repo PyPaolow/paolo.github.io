@@ -1,7 +1,7 @@
 # Data Scientist Undergraduate Student
 
 ### Education
-Bachelor's of Science in Data Science
+**Bachelor’s in Data Science, Mapúa University (2023 - Present)**  
 
 ### Projects
 none yet 
