@@ -35,5 +35,17 @@ Python, Jupyter Notebook, SQL, Excel, Power BI, GitHub, HTML, CSS, JavaScript
 #### Fluctuations and Statistical Significance of Regional Rice & Vegetable Prices in the Philippines (Jan–Feb 2025)  
 **Role:** Data Engineer / Lead Data Preprocessor  
 - Processed PSA Price Situationer data to track short-term regional price fluctuations.  
-- Handled data
+- Handled data cleaning, imputation using regional averages, and prepared datasets for paired T-tests and Two-Way ANOVA.  
+- Enabled efficient dashboard development in Power BI and Excel.
+
+---
+
+#### AI-Driven Financial Inclusion Analysis for the Philippine Banking Industry  
+**Role:** AI/ML Developer & Data Engineer  
+- Analyzed disparities in banking access using BSP datasets.  
+- Merged and cleaned datasets in Jupyter Notebook, enabling robust EDA.  
+- Developed clustering (K-Means) and classification (Random Forest) models.  
+- Visualized data using PCA, t-SNE, and heatmaps to guide financial inclusion strategies.
+
+---
 
