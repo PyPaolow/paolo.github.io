@@ -1,6 +1,3 @@
-# Juan Paolo Aguilar  
-**Data Scientist Undergraduate Student**
-
 Makati City, Philippines  
 juanpaolo.aguilar.04@gmail.com  
 +63 9273597244  
